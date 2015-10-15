@@ -18,10 +18,12 @@
    3. Majd Daka
      * Test Manager
      * Business Process Analyst
-- Einsatz der Sprache und die vermutliche Umsetzung müssen klar definiert sein
+- ~~Einsatz der Sprache und die vermutliche Umsetzung müssen klar definiert sein~~
   * Datenbank?
-  * Sprache?
-  * Tools?
+  * ~~Sprache?~~
+   1. Ruby on Rails
+  * ~~Tools?~~
+   2. Git, Jenkins, Wordpress
   * Probleme?
   * Nächstes Vorgehen?
   * Unterteilung in Arbeitspakete?
