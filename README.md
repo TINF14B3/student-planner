@@ -7,7 +7,7 @@
 
 
 ### Projekt
-- Teamrollen müssen definiert sein
+- ~~Teamrollen müssen definiert sein~~
   * Alles in den Blog verschieben?
    1. Dominik Müller
      * Software Architect
